@@ -1,2 +1,8 @@
 # 100-Days-Of-Code
-I am gonna code for 100 days
+I've joined the #100DaysOfCode Challenge
+## Contents
+
+* [Rules](rules.md)
+* [Log - click here to see my progress](log.md)
+* [Resources](resources.md)
+
