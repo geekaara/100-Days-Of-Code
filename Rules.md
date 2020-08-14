@@ -4,7 +4,7 @@
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
-July 1st, 2020
+August 14st, 2020
 
 
 ## Additional Rules
