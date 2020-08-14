@@ -1,0 +1,18 @@
+h2{
+    text-align: center;
+}
+td{
+    width: 100px;
+    height: 100px;
+}
+#two , #five , #eight{
+border-left: 1px solid black;
+border-right: 1px solid black;
+}
+#four, #five, #six{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+table{
+    margin: auto;
+}
