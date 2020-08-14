@@ -1,2 +1,2 @@
-# Primary Resources on the #100DaysOfCode
-[Free Code Camp](https://www.freecodecamp.org/learn)
+# Primary Resources
+[The Web Developer Bootcamp by Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/)
