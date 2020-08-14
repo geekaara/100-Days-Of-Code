@@ -6,4 +6,4 @@
 
 **Thoughts:** I really struggled with CSS selectors, but, overall, I feel like I am slowly getting better at it.
 
-**Link to work:** [Photo Gallery](http://www.example.com)
+**Link to work:** [Photo Gallery](https://geekaara.github.io/100-Days-Of-Code//CSS%20Projects/gallary.html)
