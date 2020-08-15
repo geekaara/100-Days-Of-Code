@@ -15,3 +15,4 @@
 **Thoughts:** I felt like i am really not doing it on my own due to the presence of inbuilt classes, difficult in remembering the inbuilt classes
 
 **Link to work:** [Photo Gallery](https://geekaara.github.io/100-Days-Of-Code/BootstrapProjects/bs_gallary.html)
+**Link to work:** [Landing Page](https://geekaara.github.io/100-Days-Of-Code/BootstrapProjects/landing.html)
