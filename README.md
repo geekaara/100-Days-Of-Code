@@ -5,5 +5,5 @@ I've joined the #100DaysOfCode Challenge
 * [Rules](Rules.md)
 * [Log - click here to see my progress](log.md)
 * [Resources](resources.md)
-* [Projects]
+* [Projects](Projects.md)
 
