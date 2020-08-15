@@ -7,3 +7,11 @@
 **Thoughts:** I really struggled with CSS selectors, but, overall, I feel like I am slowly getting better at it.
 
 **Link to work:** [Photo Gallery](https://geekaara.github.io/100-Days-Of-Code//CSS%20Projects/gallary.html)
+
+### Day 1: May 15, 2020 
+
+**Today's Progress**: Learned CSS Box Model, Fonts, Colors, Created three projects88
+
+**Thoughts:** I really struggled with CSS selectors, but, overall, I feel like I am slowly getting better at it.
+
+**Link to work:** [Photo Gallery](https://geekaara.github.io/100-Days-Of-Code//CSS%20Projects/gallary.html)
