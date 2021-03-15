@@ -1,5 +1,5 @@
-# 100-Days-Of-Code
-I've joined the #100DaysOfCode Challenge
+# Frontend Learning
+
 ## Contents
 
 * [Rules](Rules.md)
